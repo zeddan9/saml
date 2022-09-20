@@ -3,7 +3,7 @@ package samlsp
 import (
 	"io"
 
-	"github.com/crewjam/saml"
+	"github.com/zeddan9/saml"
 )
 
 func randomBytes(n int) []byte {
